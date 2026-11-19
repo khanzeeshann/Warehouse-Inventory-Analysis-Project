@@ -1,6 +1,6 @@
 # Warehouse Inventory & Stockout Risk Analysis
 
-**Project 20 | Python, NumPy & Pandas Individual Industry Project**
+**Python, NumPy & Pandas Individual Industry Project**
 Student: Zeeshan Khan | Addmission No.: 2026B15410225
 
 ## Overview
