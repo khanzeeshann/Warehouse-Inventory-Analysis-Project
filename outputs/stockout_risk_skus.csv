@@ -1,0 +1,234 @@
+SKU_ID,Product_Name,Category,Supplier,Warehouse_Location,Current_Stock,Reorder_Level,Avg_Daily_Sales,Unit_Cost,Lead_Time_Days,Defect_Return_Rate_Pct,Lead_Time_Was_Missing,Unit_Cost_Was_Missing,Inventory_Value,Stockout_Risk,Units_Below_Reorder
+SKU1805,Power Bank,Electronics,Apex Traders,Kolkata Hub,172,813,64.6,4081.78,6.0,0.64,True,False,702066.16,True,641
+SKU1670,Dumbbell Set,Sports,EastGate Imports,Mumbai Hub,127,614,28.3,690.66,16.0,6.16,False,False,87713.81999999999,True,487
+SKU1275,Pulses 1kg,Grocery,CityWave Pvt Ltd,Bengaluru Hub,257,664,33.3,402.82,16.0,3.5,False,False,103524.74,True,407
+SKU1104,Notebook Pack,Stationery,CityWave Pvt Ltd,Bengaluru Hub,134,526,27.8,128.38,13.0,4.13,False,False,17202.92,True,392
+SKU2198,Pulses 1kg,Grocery,BlueLine Supplies,Bengaluru Hub,37,421,31.3,398.8,11.0,2.5,False,False,14755.6,True,384
+SKU1592,Power Bank,Electronics,Apex Traders,Kolkata Hub,67,421,34.6,374.21,7.0,0.77,False,False,25072.07,True,354
+SKU2098,Storage Jar,Home & Kitchen,CityWave Pvt Ltd,Bengaluru Hub,43,388,18.7,153.49,15.0,2.54,False,False,6600.070000000001,True,345
+SKU1555,File Folder,Stationery,Delta Components,Mumbai Hub,242,570,44.3,211.31,8.0,1.83,False,False,51137.020000000004,True,328
+SKU1048,Desk Organiser,Stationery,Apex Traders,Kolkata Hub,7,312,27.8,152.55,6.0,3.07,False,False,1067.8500000000001,True,305
+SKU1050,Lunch Box,Home & Kitchen,GreenField Co,Hyderabad Hub,84,382,17.4,400.56,19.0,2.28,False,False,33647.04,True,298
+SKU1159,Keyboard,Electronics,Delta Components,Kolkata Hub,136,393,38.0,720.23,7.0,0.71,False,False,97951.28,True,257
+SKU1736,Storage Jar,Home & Kitchen,EastGate Imports,Hyderabad Hub,52,292,15.6,2234.73,16.0,4.09,False,False,116205.96,True,240
+SKU2119,Pulses 1kg,Grocery,CityWave Pvt Ltd,Kolkata Hub,122,359,18.0,133.11,16.0,3.33,False,False,16239.420000000002,True,237
+SKU1631,Cotton T-Shirt,Apparel,CityWave Pvt Ltd,Bengaluru Hub,44,280,21.8,140.04,8.0,4.44,False,False,6161.759999999999,True,236
+SKU1523,Power Bank,Electronics,CityWave Pvt Ltd,Delhi-NCR Hub,260,486,31.7,908.04,10.0,3.57,False,False,236090.4,True,226
+SKU1854,Storage Jar,Home & Kitchen,EastGate Imports,Mumbai Hub,69,292,14.7,240.27,14.0,4.27,False,False,16578.63,True,223
+SKU1438,Lunch Box,Home & Kitchen,CityWave Pvt Ltd,Hyderabad Hub,25,242,21.3,468.46,8.0,3.16,False,False,11711.5,True,217
+SKU1658,Sticky Notes,Stationery,EastGate Imports,Delhi-NCR Hub,141,357,11.9,297.39,24.0,4.72,False,False,41931.99,True,216
+SKU1707,Notebook Pack,Stationery,CityWave Pvt Ltd,Mumbai Hub,75,285,18.4,128.26,11.0,4.19,False,False,9619.5,True,210
+SKU1920,Bluetooth Speaker,Electronics,Apex Traders,Bengaluru Hub,245,448,32.7,837.91,8.0,1.24,False,False,205287.94999999998,True,203
+SKU1534,Bluetooth Speaker,Electronics,Apex Traders,Bengaluru Hub,102,299,37.7,4039.3,4.0,1.62,False,False,412008.60000000003,True,197
+SKU1547,Cotton T-Shirt,Apparel,Delta Components,Delhi-NCR Hub,51,247,17.9,864.54,11.0,0.59,False,False,44091.54,True,196
+SKU1533,Pulses 1kg,Grocery,CityWave Pvt Ltd,Kolkata Hub,160,354,23.9,541.26,12.0,3.99,False,False,86601.6,True,194
+SKU1677,Basmati Rice 5kg,Grocery,Apex Traders,Kolkata Hub,11,205,17.2,208.38,7.0,1.87,False,False,2292.18,True,194
+SKU1928,Cookware Set,Home & Kitchen,BlueLine Supplies,Bengaluru Hub,17,206,12.6,168.59,11.0,2.34,False,False,2866.03,True,189
+SKU1480,Cookware Set,Home & Kitchen,GreenField Co,Mumbai Hub,151,340,20.4,282.54,14.0,1.81,False,False,42663.54,True,189
+SKU1767,Lunch Box,Home & Kitchen,EastGate Imports,Hyderabad Hub,16,204,7.9,1373.97,22.0,5.69,False,False,21983.52,True,188
+SKU1250,Bluetooth Speaker,Electronics,FastTrack Goods,Bengaluru Hub,246,433,37.1,3605.15,6.0,1.88,False,False,886866.9,True,187
+SKU1907,Marker Set,Stationery,CityWave Pvt Ltd,Kolkata Hub,94,280,18.4,45.56,11.0,2.72,False,False,4282.64,True,186
+SKU1112,USB-C Cable,Electronics,GreenField Co,Hyderabad Hub,51,236,11.8,1018.73,18.0,3.64,False,False,51955.23,True,185
+SKU1484,Resistance Band,Sports,GreenField Co,Kolkata Hub,16,200,15.2,2255.59,9.0,2.43,False,False,36089.44,True,184
+SKU1206,Power Bank,Electronics,BlueLine Supplies,Kolkata Hub,130,313,21.0,3586.28,9.0,1.39,False,False,466216.4,True,183
+SKU1675,Power Bank,Electronics,CityWave Pvt Ltd,Delhi-NCR Hub,12,195,12.7,465.73,11.0,3.28,False,False,5588.76,True,183
+SKU2153,Power Bank,Electronics,Apex Traders,Mumbai Hub,232,413,52.5,3636.14,5.0,1.27,False,False,843584.48,True,181
+SKU1101,Webcam,Electronics,GreenField Co,Mumbai Hub,92,271,14.2,1411.58,15.0,2.99,False,False,129865.35999999999,True,179
+SKU2150,USB-C Cable,Electronics,GreenField Co,Bengaluru Hub,174,350,15.4,1010.05,17.0,2.22,False,False,175748.69999999998,True,176
+SKU1385,Biscuit Carton,Grocery,BlueLine Supplies,Bengaluru Hub,73,248,24.6,156.35,8.0,2.42,False,False,11413.55,True,175
+SKU1644,Storage Jar,Home & Kitchen,Apex Traders,Hyderabad Hub,11,184,22.2,1273.38,6.0,1.68,False,False,14007.18,True,173
+SKU1775,Mixer Grinder,Home & Kitchen,GreenField Co,Delhi-NCR Hub,10,182,8.7,1263.48,17.0,2.37,False,False,12634.8,True,172
+SKU1728,Hoodie,Apparel,GreenField Co,Mumbai Hub,171,337,20.1,1032.7,14.0,3.04,False,False,176591.7,True,166
+SKU1107,Bluetooth Speaker,Electronics,Apex Traders,Bengaluru Hub,8,171,15.4,631.29,6.0,3.57,False,False,5050.32,True,163
+SKU1823,Power Bank,Electronics,CityWave Pvt Ltd,Mumbai Hub,67,229,19.1,3464.97,9.0,2.55,False,False,232152.99,True,162
+SKU2066,Power Bank,Electronics,BlueLine Supplies,Bengaluru Hub,42,204,17.2,687.8,7.0,2.8,False,False,28887.6,True,162
+SKU1012,Yoga Mat,Sports,GreenField Co,Delhi-NCR Hub,16,175,7.8,2417.9,18.0,1.83,False,False,38686.4,True,159
+SKU1723,Cooking Oil 1L,Grocery,GreenField Co,Bengaluru Hub,161,312,14.6,486.25,17.0,3.3,False,False,78286.25,True,151
+SKU1904,Storage Jar,Home & Kitchen,EastGate Imports,Hyderabad Hub,1,149,5.3,810.36,23.0,5.21,False,False,810.36,True,148
+SKU2167,Storage Jar,Home & Kitchen,Apex Traders,Bengaluru Hub,0,144,12.8,555.22,8.0,2.16,False,False,0.0,True,144
+SKU1108,Tea Pack,Grocery,CityWave Pvt Ltd,Hyderabad Hub,116,256,17.4,480.37,12.0,1.07,False,False,55722.92,True,140
+SKU1408,Tea Pack,Grocery,BlueLine Supplies,Mumbai Hub,93,229,15.8,141.74,10.0,2.12,False,True,13181.820000000002,True,136
+SKU1174,Cotton T-Shirt,Apparel,FastTrack Goods,Delhi-NCR Hub,8,142,17.6,1341.65,4.0,1.77,False,False,10733.2,True,134
+SKU1989,Marker Set,Stationery,BlueLine Supplies,Hyderabad Hub,396,529,50.0,45.57,7.0,2.55,False,False,18045.72,True,133
+SKU1055,Water Bottle,Home & Kitchen,Delta Components,Mumbai Hub,18,149,14.6,816.87,7.0,1.29,False,False,14703.66,True,131
+SKU1800,Spice Box,Grocery,EastGate Imports,Kolkata Hub,252,380,15.3,310.84,18.0,4.85,True,False,78331.68,True,128
+SKU1366,Basmati Rice 5kg,Grocery,CityWave Pvt Ltd,Mumbai Hub,51,178,9.4,141.7,14.0,3.27,False,False,7226.7,True,127
+SKU1141,Track Pants,Apparel,FastTrack Goods,Bengaluru Hub,14,141,14.3,1001.98,5.0,0.97,False,False,14027.720000000001,True,127
+SKU1950,Sports Socks,Apparel,FastTrack Goods,Bengaluru Hub,43,169,17.1,1706.0,5.0,3.03,False,False,73358.0,True,126
+SKU1965,Cookware Set,Home & Kitchen,Apex Traders,Bengaluru Hub,30,155,15.6,1639.06,6.0,3.66,False,False,49171.799999999996,True,125
+SKU1197,Badminton Racket,Sports,BlueLine Supplies,Bengaluru Hub,39,162,12.3,1253.82,9.0,1.09,False,False,48898.979999999996,True,123
+SKU2054,Denim Jeans,Apparel,Apex Traders,Delhi-NCR Hub,31,151,12.9,162.44,6.0,2.48,False,False,5035.64,True,120
+SKU1806,Yoga Mat,Sports,Apex Traders,Delhi-NCR Hub,14,133,12.1,667.76,7.0,1.85,False,False,9348.64,True,119
+SKU1194,File Folder,Stationery,EastGate Imports,Mumbai Hub,90,209,7.2,58.46,24.0,4.26,False,False,5261.4,True,119
+SKU1545,Cap,Apparel,EastGate Imports,Mumbai Hub,2,120,7.2,732.27,13.0,3.68,False,False,1464.54,True,118
+SKU1300,Water Bottle,Home & Kitchen,BlueLine Supplies,Delhi-NCR Hub,61,177,13.1,226.5,9.0,2.15,False,False,13816.5,True,116
+SKU1654,Marker Set,Stationery,Delta Components,Delhi-NCR Hub,40,153,11.1,59.4,8.0,1.69,False,False,2376.0,True,113
+SKU1850,Storage Jar,Home & Kitchen,BlueLine Supplies,Mumbai Hub,132,244,17.5,752.67,11.0,3.55,False,False,99352.43999999999,True,112
+SKU1648,Track Pants,Apparel,BlueLine Supplies,Hyderabad Hub,118,228,20.2,445.92,7.0,2.53,False,False,52618.560000000005,True,110
+SKU2027,Gel Pen Box,Stationery,CityWave Pvt Ltd,Mumbai Hub,145,254,11.1,63.82,18.0,4.27,False,False,9253.9,True,109
+SKU1991,Track Pants,Apparel,GreenField Co,Delhi-NCR Hub,80,187,9.2,133.92,15.0,2.55,False,False,10713.599999999999,True,107
+SKU1086,Dumbbell Set,Sports,BlueLine Supplies,Delhi-NCR Hub,6,112,8.6,499.34,10.0,1.13,False,False,2996.04,True,106
+SKU1143,Pulses 1kg,Grocery,GreenField Co,Bengaluru Hub,9,111,6.5,521.5,13.0,3.62,False,False,4693.5,True,102
+SKU1766,Wireless Mouse,Electronics,EastGate Imports,Bengaluru Hub,179,281,15.2,959.26,13.0,5.47,False,False,171707.54,True,102
+SKU1980,USB-C Cable,Electronics,EastGate Imports,Delhi-NCR Hub,71,173,5.7,2050.93,26.0,3.87,False,False,145616.03,True,102
+SKU2106,Water Bottle,Home & Kitchen,CityWave Pvt Ltd,Mumbai Hub,33,135,8.6,3167.1,12.0,2.99,True,False,104514.3,True,102
+SKU1666,Storage Jar,Home & Kitchen,FastTrack Goods,Hyderabad Hub,19,118,11.1,249.41,41.0,3.65,False,False,4738.79,True,99
+SKU1186,Yoga Mat,Sports,CityWave Pvt Ltd,Hyderabad Hub,32,131,11.4,534.53,8.0,3.13,False,False,17104.96,True,99
+SKU1792,Basmati Rice 5kg,Grocery,EastGate Imports,Mumbai Hub,264,361,13.5,105.09,22.0,4.42,False,False,27743.760000000002,True,97
+SKU2146,Marker Set,Stationery,BlueLine Supplies,Kolkata Hub,95,192,12.0,20.13,10.0,2.26,False,False,1912.35,True,97
+SKU1914,Webcam,Electronics,BlueLine Supplies,Bengaluru Hub,130,225,13.6,1691.89,11.0,2.87,False,False,219945.7,True,95
+SKU1582,Wireless Mouse,Electronics,BlueLine Supplies,Delhi-NCR Hub,117,209,14.3,3150.38,9.0,4.0,False,False,368594.46,True,92
+SKU1190,Badminton Racket,Sports,BlueLine Supplies,Kolkata Hub,12,99,9.7,214.9,8.0,3.17,False,False,2578.8,True,87
+SKU1683,Notebook Pack,Stationery,BlueLine Supplies,Delhi-NCR Hub,5,92,7.4,205.41,10.0,2.39,False,False,1027.05,True,87
+SKU1618,Track Pants,Apparel,EastGate Imports,Bengaluru Hub,139,224,10.1,128.79,20.0,5.76,False,False,17901.809999999998,True,85
+SKU1305,Badminton Racket,Sports,FastTrack Goods,Bengaluru Hub,12,97,10.0,200.51,5.0,2.73,False,False,2406.12,True,85
+SKU1257,Water Bottle,Home & Kitchen,Apex Traders,Delhi-NCR Hub,9,91,9.5,512.46,7.0,0.1,False,False,4612.14,True,82
+SKU1259,Bluetooth Speaker,Electronics,GreenField Co,Delhi-NCR Hub,508,590,32.2,1602.65,14.0,3.08,True,False,814146.2000000001,True,82
+SKU1717,Desk Organiser,Stationery,GreenField Co,Delhi-NCR Hub,25,105,6.0,284.74,14.0,2.8,False,False,7118.5,True,80
+SKU2091,Gel Pen Box,Stationery,EastGate Imports,Delhi-NCR Hub,173,252,10.0,93.42,20.0,5.13,False,False,16161.66,True,79
+SKU1148,Cooking Oil 1L,Grocery,Delta Components,Delhi-NCR Hub,86,165,14.5,103.86,7.0,0.1,False,False,8931.96,True,79
+SKU1346,Mixer Grinder,Home & Kitchen,GreenField Co,Bengaluru Hub,40,118,6.3,1777.98,13.0,3.79,False,False,71119.2,True,78
+SKU1327,Webcam,Electronics,CityWave Pvt Ltd,Mumbai Hub,127,204,12.8,1208.62,12.0,2.14,False,False,153494.74,True,77
+SKU1762,Notebook Pack,Stationery,CityWave Pvt Ltd,Delhi-NCR Hub,40,116,10.0,37.35,8.0,3.6,False,False,1494.0,True,76
+SKU1233,Cotton T-Shirt,Apparel,BlueLine Supplies,Mumbai Hub,113,189,14.8,299.16,9.0,3.01,False,False,33805.08,True,76
+SKU1096,Yoga Mat,Sports,FastTrack Goods,Kolkata Hub,5,81,12.4,310.35,3.0,2.22,False,False,1551.75,True,76
+SKU1888,Cookware Set,Home & Kitchen,Apex Traders,Bengaluru Hub,10,85,10.0,1476.69,5.0,3.4,False,False,14766.900000000001,True,75
+SKU1542,Cotton T-Shirt,Apparel,Delta Components,Delhi-NCR Hub,66,140,11.0,139.22,8.0,1.15,False,False,9188.52,True,74
+SKU1118,Cotton T-Shirt,Apparel,GreenField Co,Delhi-NCR Hub,2,75,5.2,234.76,9.0,5.02,False,False,469.52,True,73
+SKU1489,Tea Pack,Grocery,Apex Traders,Hyderabad Hub,24,95,10.3,70.12,6.0,2.26,False,False,1682.88,True,71
+SKU2077,Hoodie,Apparel,GreenField Co,Delhi-NCR Hub,55,126,5.0,236.55,20.0,2.23,False,False,13010.25,True,71
+SKU1177,Dumbbell Set,Sports,Delta Components,Kolkata Hub,46,116,11.8,3738.95,7.0,1.17,False,False,171991.69999999998,True,70
+SKU1318,Tea Pack,Grocery,Apex Traders,Hyderabad Hub,46,115,10.2,80.37,6.0,1.41,False,False,3697.0200000000004,True,69
+SKU1797,Sports Socks,Apparel,CityWave Pvt Ltd,Bengaluru Hub,92,160,17.4,263.93,7.0,3.18,False,False,24281.56,True,68
+SKU1575,Hoodie,Apparel,Apex Traders,Delhi-NCR Hub,6,71,8.6,958.86,5.0,1.04,False,False,5753.16,True,65
+SKU1340,Wireless Mouse,Electronics,Delta Components,Delhi-NCR Hub,30,95,11.1,893.25,6.0,1.61,False,False,26797.5,True,65
+SKU1895,Webcam,Electronics,Apex Traders,Mumbai Hub,8,72,6.6,548.43,8.0,1.54,False,False,4387.44,True,64
+SKU1076,Mixer Grinder,Home & Kitchen,Delta Components,Delhi-NCR Hub,22,86,8.1,1173.92,7.0,1.58,True,False,25826.24,True,64
+SKU1602,Pulses 1kg,Grocery,EastGate Imports,Mumbai Hub,60,123,5.3,130.71,19.0,4.8,False,False,7842.6,True,63
+SKU2184,Hoodie,Apparel,CityWave Pvt Ltd,Delhi-NCR Hub,22,82,4.9,936.86,13.0,2.13,False,False,20610.920000000002,True,60
+SKU1396,File Folder,Stationery,CityWave Pvt Ltd,Delhi-NCR Hub,0,60,4.3,116.71,10.0,2.57,False,True,0.0,True,60
+SKU1183,Basmati Rice 5kg,Grocery,EastGate Imports,Delhi-NCR Hub,167,227,9.9,353.78,20.0,3.77,False,False,59081.259999999995,True,60
+SKU1903,USB-C Cable,Electronics,Apex Traders,Kolkata Hub,28,88,9.9,692.01,5.0,2.18,False,False,19376.28,True,60
+SKU1196,Lunch Box,Home & Kitchen,BlueLine Supplies,Bengaluru Hub,208,268,20.7,2877.08,7.0,3.49,False,False,598432.64,True,60
+SKU1023,Dumbbell Set,Sports,CityWave Pvt Ltd,Delhi-NCR Hub,70,130,9.5,645.61,33.0,2.83,False,False,45192.700000000004,True,60
+SKU1019,Spice Box,Grocery,EastGate Imports,Delhi-NCR Hub,334,393,19.1,189.95,15.0,4.46,False,False,63443.299999999996,True,59
+SKU2040,Badminton Racket,Sports,Apex Traders,Delhi-NCR Hub,65,123,12.7,1032.55,6.0,0.49,False,False,67115.75,True,58
+SKU1494,Football,Sports,BlueLine Supplies,Hyderabad Hub,44,100,10.2,852.92,7.0,2.06,False,False,37528.479999999996,True,56
+SKU1462,Basmati Rice 5kg,Grocery,CityWave Pvt Ltd,Mumbai Hub,168,224,13.4,141.74,13.0,3.42,False,True,23812.32,True,56
+SKU1790,Webcam,Electronics,Apex Traders,Delhi-NCR Hub,24,80,12.4,506.48,4.0,2.5,False,False,12155.52,True,56
+SKU1216,Keyboard,Electronics,GreenField Co,Hyderabad Hub,66,121,5.6,557.81,17.0,3.48,False,False,36815.46,True,55
+SKU2058,Keyboard,Electronics,Delta Components,Hyderabad Hub,42,95,7.0,3249.59,7.0,1.06,True,False,136482.78,True,53
+SKU1099,Cooking Oil 1L,Grocery,GreenField Co,Delhi-NCR Hub,27,80,3.8,40.26,17.0,2.73,False,False,1087.02,True,53
+SKU1994,Webcam,Electronics,CityWave Pvt Ltd,Mumbai Hub,110,161,8.8,1037.01,13.0,4.37,False,False,114071.1,True,51
+SKU1455,File Folder,Stationery,Apex Traders,Mumbai Hub,7,58,5.3,379.18,5.0,3.12,False,False,2654.26,True,51
+SKU1976,Pressure Cooker,Home & Kitchen,FastTrack Goods,Hyderabad Hub,71,121,12.3,426.76,4.0,2.36,False,False,30299.96,True,50
+SKU1934,Bluetooth Speaker,Electronics,CityWave Pvt Ltd,Delhi-NCR Hub,93,142,8.8,3106.8,12.0,4.5,False,False,288932.4,True,49
+SKU1860,Track Pants,Apparel,CityWave Pvt Ltd,Kolkata Hub,5,53,4.0,495.57,9.0,5.14,False,False,2477.85,True,48
+SKU1215,Cookware Set,Home & Kitchen,FastTrack Goods,Bengaluru Hub,48,95,8.7,154.75,6.0,2.45,False,False,7428.0,True,47
+SKU1522,Hoodie,Apparel,Apex Traders,Delhi-NCR Hub,1,47,5.1,1134.91,5.0,1.38,False,False,1134.91,True,46
+SKU1626,Track Pants,Apparel,Apex Traders,Mumbai Hub,57,103,8.1,642.31,7.0,0.72,False,False,36611.67,True,46
+SKU1548,Spice Box,Grocery,CityWave Pvt Ltd,Mumbai Hub,5,50,3.4,49.27,9.0,4.22,False,False,246.35000000000002,True,45
+SKU1445,Lunch Box,Home & Kitchen,GreenField Co,Kolkata Hub,202,247,12.8,3084.98,14.0,2.65,False,False,623165.96,True,45
+SKU1923,Hoodie,Apparel,EastGate Imports,Delhi-NCR Hub,164,208,10.5,649.62,17.0,6.44,False,False,106537.68000000001,True,44
+SKU1793,Cookware Set,Home & Kitchen,FastTrack Goods,Mumbai Hub,20,63,7.5,728.51,6.0,0.53,False,False,14570.2,True,43
+SKU1868,Basmati Rice 5kg,Grocery,GreenField Co,Mumbai Hub,102,145,5.6,546.07,21.0,3.03,False,False,55699.14000000001,True,43
+SKU1568,Power Bank,Electronics,Delta Components,Hyderabad Hub,14,57,6.1,1338.44,5.0,0.37,False,False,18738.16,True,43
+SKU1357,Desk Organiser,Stationery,CityWave Pvt Ltd,Mumbai Hub,6,49,4.9,44.31,6.0,4.39,False,False,265.86,True,43
+SKU1322,Webcam,Electronics,Apex Traders,Hyderabad Hub,12,55,5.4,1429.54,5.0,2.59,False,False,17154.48,True,43
+SKU1043,Webcam,Electronics,Apex Traders,Hyderabad Hub,13,54,5.4,4490.49,6.0,1.4,False,False,58376.369999999995,True,41
+SKU2056,Pulses 1kg,Grocery,CityWave Pvt Ltd,Mumbai Hub,96,137,8.9,131.36,11.0,4.52,False,False,12610.560000000001,True,41
+SKU1637,Sticky Notes,Stationery,FastTrack Goods,Delhi-NCR Hub,110,151,15.1,34.44,5.0,1.86,False,False,3788.3999999999996,True,41
+SKU1208,Storage Jar,Home & Kitchen,CityWave Pvt Ltd,Hyderabad Hub,9,50,2.5,1304.46,14.0,3.15,False,False,11740.14,True,41
+SKU2139,Spice Box,Grocery,BlueLine Supplies,Delhi-NCR Hub,49,89,6.3,326.8,9.0,0.72,False,False,16013.2,True,40
+SKU1686,Storage Jar,Home & Kitchen,Apex Traders,Bengaluru Hub,10,50,5.4,545.43,5.0,1.87,False,False,5454.299999999999,True,40
+SKU1596,Track Pants,Apparel,FastTrack Goods,Kolkata Hub,7,46,4.8,184.3,43.0,3.65,False,False,1290.1000000000001,True,39
+SKU2115,Keyboard,Electronics,Delta Components,Mumbai Hub,58,97,6.5,4372.75,9.0,0.94,False,False,253619.5,True,39
+SKU1759,Lunch Box,Home & Kitchen,FastTrack Goods,Mumbai Hub,34,73,8.4,324.01,5.0,2.9,False,False,11016.34,True,39
+SKU1144,Track Pants,Apparel,BlueLine Supplies,Delhi-NCR Hub,120,158,13.4,617.33,7.0,2.88,False,False,74079.6,True,38
+SKU2055,Notebook Pack,Stationery,FastTrack Goods,Delhi-NCR Hub,9,46,5.3,87.5,6.0,2.76,False,False,787.5,True,37
+SKU1481,Skipping Rope,Sports,CityWave Pvt Ltd,Mumbai Hub,40,77,4.4,1402.36,15.0,3.83,False,False,56094.399999999994,True,37
+SKU1449,Wireless Mouse,Electronics,Delta Components,Hyderabad Hub,121,158,17.7,460.44,4.0,1.91,False,False,55713.24,True,37
+SKU1902,Mixer Grinder,Home & Kitchen,CityWave Pvt Ltd,Mumbai Hub,16,52,2.9,729.45,13.0,4.98,False,False,11671.2,True,36
+SKU1621,Pulses 1kg,Grocery,EastGate Imports,Delhi-NCR Hub,99,134,7.1,80.28,16.0,6.48,False,False,7947.72,True,35
+SKU1138,Cotton T-Shirt,Apparel,BlueLine Supplies,Mumbai Hub,6,39,3.2,165.38,7.0,3.15,False,False,992.28,True,33
+SKU2194,Webcam,Electronics,Apex Traders,Bengaluru Hub,55,88,7.6,2521.24,6.0,0.1,False,False,138668.19999999998,True,33
+SKU1955,Resistance Band,Sports,Delta Components,Kolkata Hub,23,56,4.8,405.38,7.0,1.03,False,False,9323.74,True,33
+SKU2052,Webcam,Electronics,CityWave Pvt Ltd,Mumbai Hub,131,163,10.2,736.87,13.0,3.19,False,False,96529.97,True,32
+SKU1485,Tea Pack,Grocery,Delta Components,Delhi-NCR Hub,46,78,7.4,98.78,6.0,0.96,False,False,4543.88,True,32
+SKU2062,Hoodie,Apparel,Apex Traders,Mumbai Hub,6,38,3.6,953.99,5.0,3.26,False,False,5723.9400000000005,True,32
+SKU1933,Cotton T-Shirt,Apparel,GreenField Co,Hyderabad Hub,108,138,7.0,716.53,14.0,3.23,False,False,77385.23999999999,True,30
+SKU1988,Keyboard,Electronics,BlueLine Supplies,Bengaluru Hub,37,67,5.2,845.11,7.0,1.75,False,False,31269.07,True,30
+SKU1267,Cookware Set,Home & Kitchen,BlueLine Supplies,Hyderabad Hub,7,37,3.4,1169.82,6.0,2.99,False,False,8188.74,True,30
+SKU1243,Lunch Box,Home & Kitchen,Apex Traders,Bengaluru Hub,89,116,13.5,941.42,6.0,2.31,False,False,83786.37999999999,True,27
+SKU1384,Basmati Rice 5kg,Grocery,Apex Traders,Delhi-NCR Hub,1,28,2.3,69.44,7.0,2.03,False,False,69.44,True,27
+SKU1528,Mixer Grinder,Home & Kitchen,Delta Components,Mumbai Hub,6,33,3.6,286.54,7.0,0.39,False,False,1719.2400000000002,True,27
+SKU2188,Yoga Mat,Sports,Apex Traders,Bengaluru Hub,14,41,5.1,336.68,3.0,2.89,False,False,4713.52,True,27
+SKU1883,Skipping Rope,Sports,Apex Traders,Mumbai Hub,10,36,4.4,396.46,6.0,2.74,False,False,3964.6,True,26
+SKU1665,Pressure Cooker,Home & Kitchen,Delta Components,Mumbai Hub,1,27,2.9,1218.48,7.0,1.47,False,False,1218.48,True,26
+SKU1049,Water Bottle,Home & Kitchen,Apex Traders,Delhi-NCR Hub,0,26,3.3,516.1,5.0,1.92,False,False,0.0,True,26
+SKU1917,Wireless Mouse,Electronics,GreenField Co,Kolkata Hub,55,80,5.2,383.71,13.0,3.07,False,False,21104.05,True,25
+SKU1442,Bluetooth Speaker,Electronics,FastTrack Goods,Hyderabad Hub,34,59,6.0,2357.98,6.0,2.36,False,False,80171.32,True,25
+SKU1245,Sports Socks,Apparel,FastTrack Goods,Delhi-NCR Hub,101,125,13.4,1425.75,5.0,0.82,False,False,144000.75,True,24
+SKU1066,Denim Jeans,Apparel,FastTrack Goods,Bengaluru Hub,13,37,4.5,425.99,5.0,2.09,False,False,5537.87,True,24
+SKU1745,Wireless Mouse,Electronics,FastTrack Goods,Kolkata Hub,12,36,4.5,2793.86,5.0,2.56,False,False,33526.32,True,24
+SKU1011,Bluetooth Speaker,Electronics,GreenField Co,Mumbai Hub,33,57,5.6,1115.03,14.0,3.29,True,False,36795.99,True,24
+SKU1038,Cap,Apparel,GreenField Co,Mumbai Hub,229,253,12.0,503.65,19.0,3.4,False,False,115335.84999999999,True,24
+SKU1111,USB-C Cable,Electronics,BlueLine Supplies,Delhi-NCR Hub,14,37,3.3,1038.36,8.0,2.99,False,False,14537.039999999999,True,23
+SKU2138,Denim Jeans,Apparel,CityWave Pvt Ltd,Delhi-NCR Hub,126,149,12.3,703.31,9.0,3.63,False,False,88617.06,True,23
+SKU1319,Cap,Apparel,Delta Components,Delhi-NCR Hub,27,50,6.2,130.98,6.0,0.36,False,False,3536.4599999999996,True,23
+SKU1440,Sticky Notes,Stationery,BlueLine Supplies,Delhi-NCR Hub,68,91,8.1,28.78,6.0,2.77,False,False,1957.04,True,23
+SKU1350,Pressure Cooker,Home & Kitchen,FastTrack Goods,Delhi-NCR Hub,61,83,7.6,1266.08,6.0,2.66,False,False,77230.87999999999,True,22
+SKU1524,Tea Pack,Grocery,CityWave Pvt Ltd,Mumbai Hub,10,32,2.2,116.79,11.0,2.29,False,False,1167.9,True,22
+SKU2007,Water Bottle,Home & Kitchen,BlueLine Supplies,Delhi-NCR Hub,119,141,9.6,372.51,9.0,1.07,False,False,44328.69,True,22
+SKU1699,Wireless Mouse,Electronics,GreenField Co,Mumbai Hub,84,105,6.9,3933.71,13.0,3.15,False,False,330431.64,True,21
+SKU1840,Pressure Cooker,Home & Kitchen,BlueLine Supplies,Kolkata Hub,195,216,15.5,604.89,8.0,3.19,False,False,117953.55,True,21
+SKU1418,Tea Pack,Grocery,GreenField Co,Kolkata Hub,14,34,2.5,50.04,10.0,3.5,False,False,700.56,True,20
+SKU1261,Badminton Racket,Sports,CityWave Pvt Ltd,Mumbai Hub,297,317,23.9,322.29,11.0,2.47,False,False,95720.13,True,20
+SKU1451,Notebook Pack,Stationery,GreenField Co,Bengaluru Hub,226,245,17.0,94.87,9.0,3.31,False,False,21440.620000000003,True,19
+SKU2092,Tea Pack,Grocery,BlueLine Supplies,Bengaluru Hub,259,278,22.1,46.99,8.0,3.17,False,False,12170.41,True,19
+SKU1407,Marker Set,Stationery,Delta Components,Mumbai Hub,112,129,12.3,267.64,7.0,0.81,False,False,29975.68,True,17
+SKU1936,Cookware Set,Home & Kitchen,CityWave Pvt Ltd,Hyderabad Hub,36,53,3.1,219.15,15.0,4.17,False,False,7889.400000000001,True,17
+SKU2020,Mixer Grinder,Home & Kitchen,GreenField Co,Mumbai Hub,56,73,3.6,1478.52,17.0,4.26,False,False,82797.12,True,17
+SKU1857,Lunch Box,Home & Kitchen,BlueLine Supplies,Hyderabad Hub,89,106,9.6,1764.2,8.0,3.01,False,False,157013.80000000002,True,17
+SKU1969,Yoga Mat,Sports,EastGate Imports,Hyderabad Hub,58,75,3.1,1094.5,22.0,4.39,False,False,63481.0,True,17
+SKU1504,Cookware Set,Home & Kitchen,FastTrack Goods,Bengaluru Hub,127,143,12.0,989.39,8.0,2.17,False,False,125652.53,True,16
+SKU1990,Pressure Cooker,Home & Kitchen,Delta Components,Kolkata Hub,23,39,3.6,869.42,7.0,0.73,True,False,19996.66,True,16
+SKU1136,Pulses 1kg,Grocery,BlueLine Supplies,Delhi-NCR Hub,231,247,15.5,386.31,10.0,4.59,False,False,89237.61,True,16
+SKU2122,Sports Socks,Apparel,BlueLine Supplies,Delhi-NCR Hub,248,263,20.4,156.29,10.0,3.84,False,False,38759.92,True,15
+SKU1338,Keyboard,Electronics,FastTrack Goods,Hyderabad Hub,48,63,10.5,3876.64,3.0,1.94,False,False,186078.72,True,15
+SKU1912,Biscuit Carton,Grocery,FastTrack Goods,Delhi-NCR Hub,11,26,4.6,82.53,3.0,2.52,False,False,907.83,True,15
+SKU1413,Mixer Grinder,Home & Kitchen,Delta Components,Bengaluru Hub,101,115,10.9,276.85,7.0,1.56,False,False,27961.850000000002,True,14
+SKU1335,Webcam,Electronics,Delta Components,Kolkata Hub,7,21,2.0,565.13,7.0,0.69,False,False,3955.91,True,14
+SKU2108,Pressure Cooker,Home & Kitchen,FastTrack Goods,Hyderabad Hub,14,27,2.1,2373.69,7.0,1.11,False,False,33231.66,True,13
+SKU1908,USB-C Cable,Electronics,CityWave Pvt Ltd,Delhi-NCR Hub,20,33,2.1,498.12,10.0,2.43,False,False,9962.4,True,13
+SKU1794,Lunch Box,Home & Kitchen,CityWave Pvt Ltd,Bengaluru Hub,143,155,8.9,1500.59,13.0,3.96,False,False,214584.37,True,12
+SKU1587,Sports Socks,Apparel,EastGate Imports,Kolkata Hub,270,282,15.3,426.49,14.0,4.52,False,False,115152.3,True,12
+SKU1411,Tea Pack,Grocery,Delta Components,Mumbai Hub,39,50,4.5,43.21,7.0,1.23,False,False,1685.19,True,11
+SKU1272,Mixer Grinder,Home & Kitchen,Apex Traders,Mumbai Hub,43,53,6.6,2823.15,5.0,1.84,False,False,121395.45,True,10
+SKU1556,Marker Set,Stationery,Delta Components,Mumbai Hub,61,70,6.5,37.35,6.0,2.71,False,False,2278.35,True,9
+SKU2148,Sticky Notes,Stationery,Apex Traders,Delhi-NCR Hub,141,150,12.7,268.89,6.0,1.33,False,False,37913.49,True,9
+SKU2185,Webcam,Electronics,Apex Traders,Hyderabad Hub,35,43,5.0,1441.54,5.0,1.12,False,False,50453.9,True,8
+SKU2042,Storage Jar,Home & Kitchen,CityWave Pvt Ltd,Delhi-NCR Hub,192,199,12.6,3193.29,12.0,4.36,False,False,613111.6799999999,True,7
+SKU2116,USB-C Cable,Electronics,CityWave Pvt Ltd,Delhi-NCR Hub,104,111,8.7,1813.05,9.0,3.98,False,False,188557.19999999998,True,7
+SKU2193,Mixer Grinder,Home & Kitchen,Delta Components,Delhi-NCR Hub,23,30,2.2,2810.04,8.0,1.23,False,False,64630.92,True,7
+SKU1365,Mixer Grinder,Home & Kitchen,BlueLine Supplies,Kolkata Hub,1,8,0.7,415.29,7.0,2.85,False,False,415.29,True,7
+SKU1708,Yoga Mat,Sports,BlueLine Supplies,Delhi-NCR Hub,163,169,14.5,1514.48,7.0,1.87,False,False,246860.24,True,6
+SKU1081,Cooking Oil 1L,Grocery,BlueLine Supplies,Mumbai Hub,40,46,2.9,399.54,11.0,2.39,False,False,15981.6,True,6
+SKU1716,Resistance Band,Sports,CityWave Pvt Ltd,Bengaluru Hub,30,35,2.6,420.22,11.0,3.09,False,False,12606.6,True,5
+SKU2006,Sports Socks,Apparel,CityWave Pvt Ltd,Bengaluru Hub,0,5,0.4,354.01,11.0,2.21,False,False,0.0,True,5
+SKU1167,Water Bottle,Home & Kitchen,FastTrack Goods,Delhi-NCR Hub,18,22,3.0,2973.19,5.0,3.5,False,False,53517.42,True,4
+SKU2144,Bluetooth Speaker,Electronics,BlueLine Supplies,Kolkata Hub,20,24,2.3,357.07,9.0,2.91,True,False,7141.4,True,4
+SKU1130,Track Pants,Apparel,Apex Traders,Delhi-NCR Hub,27,31,2.9,843.53,5.0,2.11,False,False,22775.309999999998,True,4
+SKU1383,Track Pants,Apparel,GreenField Co,Bengaluru Hub,77,81,3.7,1454.2,18.0,3.05,False,False,111973.40000000001,True,4
+SKU1412,Resistance Band,Sports,FastTrack Goods,Mumbai Hub,12,16,2.2,399.25,5.0,2.38,False,False,4791.0,True,4
+SKU1260,Dumbbell Set,Sports,BlueLine Supplies,Delhi-NCR Hub,80,83,4.8,454.19,12.0,1.74,False,False,36335.2,True,3
+SKU2123,Cotton T-Shirt,Apparel,FastTrack Goods,Bengaluru Hub,45,48,5.9,333.44,5.0,3.41,False,False,15004.8,True,3
+SKU1896,Keyboard,Electronics,BlueLine Supplies,Mumbai Hub,20,22,1.8,1817.61,8.0,3.26,False,False,36352.2,True,2
+SKU1388,Cap,Apparel,Delta Components,Bengaluru Hub,12,14,1.7,1254.87,3.0,2.18,False,False,15058.439999999999,True,2
+SKU1761,Webcam,Electronics,FastTrack Goods,Delhi-NCR Hub,16,18,2.0,353.73,5.0,2.09,False,False,5659.68,True,2
+SKU1996,Dumbbell Set,Sports,Apex Traders,Delhi-NCR Hub,28,30,2.9,2054.58,7.0,2.13,False,False,57528.24,True,2
+SKU1650,Basmati Rice 5kg,Grocery,Apex Traders,Bengaluru Hub,51,53,5.6,110.99,6.0,2.19,False,False,5660.49,True,2
+SKU1283,Pulses 1kg,Grocery,Apex Traders,Mumbai Hub,108,110,11.8,484.2,4.0,1.45,False,False,52293.6,True,2
+SKU1893,Biscuit Carton,Grocery,CityWave Pvt Ltd,Hyderabad Hub,63,64,5.6,251.72,8.0,2.95,False,False,15858.36,True,1
+SKU1214,Sports Socks,Apparel,CityWave Pvt Ltd,Delhi-NCR Hub,53,53,2.8,474.27,13.0,2.84,False,False,25136.309999999998,True,0
+SKU1477,Pressure Cooker,Home & Kitchen,FastTrack Goods,Hyderabad Hub,32,32,2.8,672.18,6.0,3.66,False,False,21509.76,True,0

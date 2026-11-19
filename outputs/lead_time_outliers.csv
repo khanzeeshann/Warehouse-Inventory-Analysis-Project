@@ -1,0 +1,33 @@
+SKU_ID,Product_Name,Category,Supplier,Warehouse_Location,Current_Stock,Reorder_Level,Avg_Daily_Sales,Unit_Cost,Lead_Time_Days,Defect_Return_Rate_Pct,Lead_Time_Was_Missing,Unit_Cost_Was_Missing,Inventory_Value,Stockout_Risk,Units_Below_Reorder,Days_Of_Stock,Overstock_Flag
+SKU2132,Bluetooth Speaker,Electronics,Apex Traders,Mumbai Hub,281,92,7.8,2533.71,46.0,0.84,False,False,711972.51,False,0,36.02564102564103,False
+SKU1539,Lunch Box,Home & Kitchen,Apex Traders,Mumbai Hub,150,57,5.7,563.16,46.0,2.71,False,False,84474.0,False,0,26.31578947368421,False
+SKU1967,Bluetooth Speaker,Electronics,GreenField Co,Hyderabad Hub,374,0,0.0,370.34,45.0,3.69,False,False,138507.16,False,0,,True
+SKU1884,Skipping Rope,Sports,GreenField Co,Kolkata Hub,1480,492,28.7,204.07,45.0,2.45,False,False,302023.6,False,0,51.56794425087108,False
+SKU1204,Resistance Band,Sports,GreenField Co,Delhi-NCR Hub,163,0,0.0,2617.87,43.0,1.59,False,False,426712.81,False,0,,True
+SKU1596,Track Pants,Apparel,FastTrack Goods,Kolkata Hub,7,46,4.8,184.3,43.0,3.65,False,False,1290.1000000000001,True,39,1.4583333333333335,False
+SKU1972,Football,Sports,BlueLine Supplies,Delhi-NCR Hub,150,0,0.0,451.27,42.0,2.66,False,False,67690.5,False,0,,True
+SKU1090,Tea Pack,Grocery,EastGate Imports,Delhi-NCR Hub,3014,377,15.9,580.19,42.0,5.78,False,False,1748692.6600000001,False,0,189.55974842767296,True
+SKU1666,Storage Jar,Home & Kitchen,FastTrack Goods,Hyderabad Hub,19,118,11.1,249.41,41.0,3.65,False,False,4738.79,True,99,1.7117117117117118,False
+SKU1978,Gel Pen Box,Stationery,FastTrack Goods,Delhi-NCR Hub,45,14,1.4,122.31,39.0,3.78,False,False,5503.95,False,0,32.142857142857146,False
+SKU1627,Desk Organiser,Stationery,FastTrack Goods,Mumbai Hub,175,47,4.8,403.55,35.0,2.1,False,False,70621.25,False,0,36.458333333333336,False
+SKU2004,Yoga Mat,Sports,EastGate Imports,Mumbai Hub,644,215,9.1,1791.53,34.0,4.85,False,False,1153745.32,False,0,70.76923076923077,False
+SKU2022,Pulses 1kg,Grocery,Apex Traders,Delhi-NCR Hub,273,103,8.8,243.81,33.0,2.34,False,False,66560.13,False,0,31.02272727272727,False
+SKU1496,Notebook Pack,Stationery,GreenField Co,Mumbai Hub,313,110,6.7,293.1,33.0,3.25,False,False,91740.3,False,0,46.71641791044776,False
+SKU1023,Dumbbell Set,Sports,CityWave Pvt Ltd,Delhi-NCR Hub,70,130,9.5,645.61,33.0,2.83,False,False,45192.700000000004,True,60,7.368421052631579,False
+SKU1750,Wireless Mouse,Electronics,EastGate Imports,Kolkata Hub,1366,622,20.1,1556.52,27.0,4.95,False,False,2126206.32,False,0,67.96019900497512,False
+SKU1224,Notebook Pack,Stationery,EastGate Imports,Bengaluru Hub,1281,537,16.8,109.49,27.0,4.8,False,False,140256.69,False,0,76.25,False
+SKU1885,Cooking Oil 1L,Grocery,EastGate Imports,Kolkata Hub,1469,609,19.8,228.81,26.0,5.41,False,False,336121.89,False,0,74.19191919191918,False
+SKU1980,USB-C Cable,Electronics,EastGate Imports,Delhi-NCR Hub,71,173,5.7,2050.93,26.0,3.87,False,False,145616.03,True,102,12.456140350877192,False
+SKU1518,Dumbbell Set,Sports,EastGate Imports,Hyderabad Hub,1635,623,20.5,2541.62,25.0,4.1,False,False,4155548.6999999997,False,0,79.7560975609756,False
+SKU1235,Power Bank,Electronics,EastGate Imports,Bengaluru Hub,1809,363,12.8,2625.68,25.0,3.74,False,False,4749855.12,False,0,141.328125,True
+SKU1578,Yoga Mat,Sports,EastGate Imports,Delhi-NCR Hub,439,320,11.4,629.23,25.0,4.47,False,False,276231.97000000003,False,0,38.50877192982456,False
+SKU1088,Pulses 1kg,Grocery,EastGate Imports,Mumbai Hub,771,320,10.5,244.16,25.0,4.48,False,False,188247.36,False,0,73.42857142857143,False
+SKU2166,Keyboard,Electronics,EastGate Imports,Delhi-NCR Hub,465,230,7.8,1414.76,25.0,4.84,False,False,657863.4,False,0,59.61538461538461,False
+SKU1781,Sticky Notes,Stationery,EastGate Imports,Mumbai Hub,592,242,8.6,23.9,24.0,3.51,False,False,14148.8,False,0,68.83720930232559,False
+SKU1597,Spice Box,Grocery,EastGate Imports,Bengaluru Hub,214,130,4.4,49.5,24.0,4.45,False,False,10593.0,False,0,48.63636363636363,False
+SKU1899,File Folder,Stationery,EastGate Imports,Hyderabad Hub,784,320,11.3,33.08,24.0,5.41,False,False,25934.719999999998,False,0,69.38053097345133,False
+SKU1674,Tea Pack,Grocery,EastGate Imports,Delhi-NCR Hub,137,52,1.8,365.16,24.0,4.97,False,False,50026.920000000006,False,0,76.11111111111111,False
+SKU1004,Lunch Box,Home & Kitchen,EastGate Imports,Delhi-NCR Hub,539,275,9.2,1801.02,24.0,4.94,False,False,970749.78,False,0,58.58695652173913,False
+SKU1194,File Folder,Stationery,EastGate Imports,Mumbai Hub,90,209,7.2,58.46,24.0,4.26,False,False,5261.4,True,119,12.5,False
+SKU1213,Denim Jeans,Apparel,EastGate Imports,Bengaluru Hub,544,69,2.5,382.63,24.0,4.86,False,False,208150.72,False,0,217.6,True
+SKU1658,Sticky Notes,Stationery,EastGate Imports,Delhi-NCR Hub,141,357,11.9,297.39,24.0,4.72,False,False,41931.99,True,216,11.848739495798318,False

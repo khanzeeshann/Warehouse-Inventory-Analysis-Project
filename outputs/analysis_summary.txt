@@ -1,0 +1,6 @@
+Warehouse Inventory & Stockout Risk - Summary
+SKUs analysed: 1200
+Total inventory value: 731770314.14
+Stockout-risk SKUs: 233
+Overstocked SKUs: 291
+Critical SKUs: 172
